@@ -8,7 +8,7 @@
 >By Subrata
 
 -----
-#### Live Deployed Website : [here](https://digital-marketing-landingpages.netlify.app/)
+#### Live Deployed Website : [here](https://cryptolandingpage2.netlify.app/)
 
 ---
 ### What I learned from this Project?
